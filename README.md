@@ -215,6 +215,10 @@ app/
   globals.css
 ```
 
+## License
+
+MIT — see [LICENSE](LICENSE).
+
 ## Author
 
 Muhammad Aoun Shabbir — [github.com/m-aoun](https://github.com/m-aoun)
